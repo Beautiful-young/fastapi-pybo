@@ -1,0 +1,7 @@
+.idea
+jumsoftweb.db
+jusoftweb.db
+*.pyc
+__pycache__
+migrations
+alembic.ini
