@@ -5,3 +5,4 @@ jusoftweb.db
 __pycache__
 migrations
 alembic.ini
+.env
